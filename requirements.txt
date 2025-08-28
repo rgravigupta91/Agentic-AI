@@ -2,3 +2,14 @@ langchain
 langgraph
 dotenv
 langchain_openai
+
+
+
+
+
+
+
+
+# pip install generative-ai-hub-sdk["all"]
+# pip install requests
+# pip install opencv-python moviepy
